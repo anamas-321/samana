@@ -4,8 +4,8 @@
 I'm a **B.Tech student** currently exploring programming and development.  
 
 ## Learning:
-- Python, HTML,CSS and js 
-- Web development  
+- Python, HTML,CSS 
+  
 
 
 ## Goals:
